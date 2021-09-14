@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualMethodCall {
+public class VDIA_MethodCall {
 
 
     public static void main(String[] args) {

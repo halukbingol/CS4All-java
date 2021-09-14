@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public interface VisualConstants {
+public interface VDIA_Constants {
     String U = "u"; // undefined
     String N = "-"; // uninitialized
     String Q = "?"; // question

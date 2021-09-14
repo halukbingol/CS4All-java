@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualObjectsComplex {
+public class VDIA_ObjectsComplex {
 
     public static void main(String[] args) {
         String strA = "A";

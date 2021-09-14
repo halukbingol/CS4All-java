@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualPrimitive {
+public class VDIA_Primitive {
 
 
     public static void main(String[] args) {

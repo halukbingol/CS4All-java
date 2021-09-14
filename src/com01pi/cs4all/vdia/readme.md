@@ -1,0 +1,1 @@
+# VDIA - Variables: Declaration, initialization, and assignment

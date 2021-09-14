@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualScopeMethodSingle_trace implements VisualConstants{ // level0 class
+public class VDIA_ScopeMethodSingle_trace implements VDIA_Constants { // level0 class
 
     static int a = 1;
 

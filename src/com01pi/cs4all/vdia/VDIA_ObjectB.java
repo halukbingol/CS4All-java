@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualObjectB {
+public class VDIA_ObjectB {
 
     public static void main(String[] args) {
 

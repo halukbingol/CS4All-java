@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualObject_trace implements VisualConstants {
+public class VDIA_Object_trace implements VDIA_Constants {
 
     public static void main(String[] args) {
         String cu = U + "  "; // undefined

@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualStrings {
+public class VDIA_Strings {
 
 
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package com01pi.cs4all.vdia;
 
 
-public class VisualObjectB_trace implements VisualConstants {
+public class VDIA_ObjectB_trace implements VDIA_Constants {
 
 
     public static void main(String[] args) {

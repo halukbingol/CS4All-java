@@ -1,6 +1,6 @@
 package com01pi.cs4all.vdia;
 
-public class VisualScopeMethodSingle { // level0 class
+public class VDIA_ScopeMethodSingle { // level0 class
 
     static int a = 1;
 
